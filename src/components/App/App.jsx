@@ -1,4 +1,7 @@
 import React from 'react';
+// import PropTypes from 'prop-types';
+import GoodsList from '../GoodsList/GoodsList';
+
 import './App.css';
 
 function App() {
@@ -21,5 +24,8 @@ function App() {
     </div>    
   );
 }
+// App.propTypes = {
+//   product: PropTypes: instanceOf()
+// }
 
 export default App;
