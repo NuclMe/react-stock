@@ -1,8 +1,12 @@
 import React from 'react';
-// import {Products} from '../models/Products';
+
+// import Products from '../models/Products';
 
 
+const GoodsList = () => {
 
+ 
+}
 
 
 

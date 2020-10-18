@@ -2,13 +2,14 @@ import React from 'react';
 // import PropTypes from 'prop-types';
 import GoodsList from '../GoodsList/GoodsList';
 
+
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-
+       
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
@@ -29,3 +30,5 @@ function App() {
 // }
 
 export default App;
+
+

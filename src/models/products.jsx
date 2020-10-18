@@ -29,7 +29,7 @@ import { v4 as uuidv4 } from 'uuid';
 //   }
 // }
 
-// export const mockProducts = [
+//  const Products = () => [
 //   new Product({
 //     id: uuidv4(),
 //     name: 'Tomatoes',
