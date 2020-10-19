@@ -1,1 +1,1 @@
-import {}
+import { combineReducers } from 'redux'
